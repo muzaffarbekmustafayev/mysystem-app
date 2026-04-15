@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshohrux_my_system_app=self.webpackChunkshohrux_my_system_app||[]).push([[8373],{68373(s,e,t){t.r(e),t.d(e,{default:()=>r});t(9950);var n=t(44414);const r=function(){return(0,n.jsx)("div",{children:"AdminAgentDepart"})}}}]);

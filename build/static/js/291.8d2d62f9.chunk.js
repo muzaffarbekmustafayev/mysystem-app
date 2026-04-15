@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkshohrux_my_system_app=self.webpackChunkshohrux_my_system_app||[]).push([[291],{20291(s,e,r){r.r(e),r.d(e,{default:()=>u});r(9950);var t=r(44414);const u=function(){return(0,t.jsx)("div",{children:"AdminSalesDepart"})}}}]);
